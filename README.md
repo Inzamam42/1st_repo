@@ -1,4 +1,4 @@
 # 1st_repo
 this is my first repo
 <br>
-and im devops engineer
+I am devops engineer
